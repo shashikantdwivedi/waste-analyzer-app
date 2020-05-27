@@ -124,8 +124,9 @@ class _HomePage extends State<HomePage> {
     setState(() {
       output = 1;
     });
+    // TODO - Add your API Link
     final String api_link =
-        'https://mwr06nama1.execute-api.us-east-1.amazonaws.com/dev/waste-analyzer';
+        '';
     String base64Image = base64Encode(file.readAsBytesSync());
     http
         .post(api_link,
