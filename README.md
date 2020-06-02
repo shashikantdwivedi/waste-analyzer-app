@@ -105,7 +105,7 @@ flutter run
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@thesdk1999](https://twitter.com/theskd1999) - shashikant@shashikantdwivedi.com
+Shashikant Dwivedi - [@thesdk1999](https://twitter.com/theskd1999) - shashikant@shashikantdwivedi.com
 
 
 
